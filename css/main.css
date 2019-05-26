@@ -1,0 +1,179 @@
+body{
+	margin: 0;
+	font-family: 'DIN Pro Condensed Medium';
+	color: #ebda7b;
+	background-color: #363;
+}
+
+.container{
+	  position: absolute;
+	  left: 0px;
+	  right: 0px;
+	  top: 0px;
+	  bottom: 0px;
+	  width: 300px;
+	  height: 500px;
+	  margin: auto;
+}
+.background-card{
+	height: 100%;
+	width: 300px;
+	display: block;
+}
+.card{
+	width: 300px;
+
+}
+.card > .cart-container {
+	position: relative;
+	margin: 0 auto;
+	height: 500px;
+	width: 100%;
+}
+
+.card>.cart-container >.card-inner{
+	position: absolute;
+	top:30px;
+	left: 9px;
+}
+
+.card > .cart-container>.card-inner > .player-image{
+	width: 260px;
+}
+
+.card > .cart-container>.card-inner > .player-image > img{
+	display: block;
+	width: 100%;	
+	top: 65px;
+	left: 10px;
+	position: absolute;
+}
+
+.card > .cart-container >.card-inner > .rating{
+	position: absolute;
+	top: 40px;
+	left: 47px;
+	font-size: 60px;
+}
+
+.card> .cart-container  > .card-inner > .position{
+	position: absolute;
+	color: #ebda7b;
+	top: 108px;
+	left: 59px;
+	font-size: 25px;
+}
+
+.card > .cart-container > .card-inner > .nation_image{
+	width: 80px;
+}
+
+.card > .cart-container  > .card-inner > .nation_image > img{
+	display: block;
+	width: 40px;
+	top: 150px;
+	left: 54px;
+	position: absolute;
+}
+
+.card > .cart-container > .card-inner > .club_image{
+	width: 80px;
+}
+
+.card> .cart-container  > .card-inner > .club_image > img{
+	display: block;
+	width: 50px;
+	top: 190px;
+	left: 50px;
+	position: absolute;
+}
+
+.card> .cart-container  > .card-inner > .name {
+	position: absolute;
+	top: 250px;
+	font-size: 30px;
+	left: 70px;
+
+}
+
+.card> .cart-container  > .card-inner > .detail-rating{
+	position: relative;
+	top: 295px;
+	left: 45px;
+	font-size: 25px;
+}
+.card> .cart-container  > .card-inner > .detail-rating > .category1{ 
+	position: absolute;
+	top:0;
+	left: 45px;
+}
+
+.card> .cart-container  > .card-inner > .detail-rating > .category2{ 
+	position: absolute;
+	top:35px;
+	left: 45px;
+}
+
+.card > .cart-container > .card-inner > .detail-rating > .category3{ 
+	position: absolute;
+	top:70px;
+	left: 45px;
+}
+
+.card > .cart-container > .card-inner > .detail-rating > .category4{ 
+	position: absolute;
+	top:0;
+	left: 155px;
+}
+
+.card >.cart-container > .card-inner > .detail-rating > .category5{ 
+	position: absolute;
+	top:35px;
+	left: 155px;
+}
+
+.card> .cart-container  > .card-inner > .detail-rating > .category6{ 
+	position: absolute;
+	top:70px;
+	left: 155px;
+}
+
+.card > .cart-container  > .card-inner > .detail-rating > .rate1{ 
+	position: absolute;
+	top:0px;
+	left:5px;
+}
+
+.card > .cart-container > .card-inner > .detail-rating > .rate2{ 
+	position: absolute;
+	top:35px;
+	left: 5px;
+}
+
+.card > .cart-container > .card-inner > .detail-rating > .rate3{ 
+	position: absolute;
+	top:70px;
+	left: 5px;
+}
+
+.card> .cart-container  > .card-inner > .detail-rating > .rate4{ 
+	position: absolute;
+	top: 0px;
+	left: 110px;
+}
+
+.card > .cart-container > .card-inner > .detail-rating > .rate5{ 
+	position: absolute;
+	top:35px;
+	left: 110px;
+}
+
+.card> .cart-container  > .card-inner > .detail-rating > .rate6{ 
+	position: absolute;
+	top:70px;
+	left: 110px;
+}
+
+
+
+
