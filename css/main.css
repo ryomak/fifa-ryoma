@@ -44,8 +44,8 @@ body{
 .card > .cart-container>.card-inner > .player-image > img{
 	display: block;
 	width: 100%;	
-	top: 65px;
-	left: 10px;
+	top: 5px;
+	left: 11px;
 	position: absolute;
 }
 
